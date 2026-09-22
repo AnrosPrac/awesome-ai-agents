@@ -3202,7 +3202,7 @@ Productivity, Multi-agent, Coding
 
 </details>
 
-## [Arsaze](https://arsaze.com)
+## [Arsaze](https://www.arsaze.com)
 AI-native video editing operating system and autonomous video editing agent
 
 <details>
@@ -3218,8 +3218,8 @@ Productivity, Multimodal AI, Creative tools
 - Connects directly to Claude, Cursor, ChatGPT, and custom LLM agents via Model Context Protocol (MCP)
 
 ### Links
-- [Web](https://arsaze.com)
-- [MCP Documentation](https://arsaze.com/docs/mcp)
+- [Web](https://www.arsaze.com)
+- [MCP Documentation](https://www.arsaze.com/docs/mcp)
 - [GitHub MCP Connector](https://github.com/AnrosPrac/arsaze-mcp)
 
 </details>
